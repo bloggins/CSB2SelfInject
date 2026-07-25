@@ -11,7 +11,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 
-namespace CalcSharpBin2SelfInject
+namespace CSB2SelfInject
 {
     public class Program
     {
